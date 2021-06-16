@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { CAROUSEL_DATA_ITEMS_BANNERP } from './carousel';
-import { ICarouselItem } from '../carousel/icarousel-item.metadata';
+import { ICarouselItem } from '../carousel/Icarousel-item.metadata';
 
 @Component({
   selector: 'app-home',

@@ -1,4 +1,4 @@
-import { ICarouselItem } from './../carousel/icarousel-item.metadata';
+import { ICarouselItem } from '../carousel/Icarousel-item.metadata';
 export const CAROUSEL_DATA_ITEMS_BANNERP: ICarouselItem[] = [
     {
         id: 1,

@@ -1,4 +1,4 @@
-import { ICarouselItem } from '../carousel/icarousel-item.metadata';
+import { ICarouselItem } from '../carousel/Icarousel-item.metadata';
 import { Component, OnInit } from '@angular/core';
 import { CAROUSEL_DATA_ITEMS_BANNERP } from './Ibanner_const';
 

@@ -1,4 +1,3 @@
-import { ICarouselItem } from './icarousel-item.metadata';
 import { Component, OnInit, Input } from '@angular/core';
 import { FormControl } from '@angular/forms';
 
